@@ -1,4 +1,4 @@
-# MockEbay: A web app in PHP & SQL
+# MockEbay; A web app in PHP & SQL
 
 To see a demonstration of this web app, visit: https://www.youtube.com/watch?v=ZzISj_s1Xec&feature=youtu.be
 
