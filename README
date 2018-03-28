@@ -1,0 +1,8 @@
+- To see a demonstration of this web app, visit: https://www.youtube.com/watch?v=ZzISj_s1Xec&feature=youtu.be
+
+To install this web application on your local machine -
+
+- Restore the database by creating a database and importing the mockebay.sql file into it. The database user specified in the sql file is webuser@localhost. Change the user if needed in the file or create a new user called webuser for the database.
+
+- Change the database credentials in the db_credentials.php file in the private folder to match your username, password and database name. 
+
