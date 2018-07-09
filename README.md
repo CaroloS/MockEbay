@@ -1,5 +1,7 @@
 # MockEbay; A web app in PHP & SQL
 
+![alt text](https://raw.githubusercontent.com/CaroloS/azure_test/master/Screen%20Shot%202018-07-09%20at%2020.12.47.png)
+
 To see a demonstration of this web app, visit: https://www.youtube.com/watch?v=ZzISj_s1Xec&feature=youtu.be
 
 ## To install this web application on your local machine
